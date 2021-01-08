@@ -18,11 +18,11 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-cowsay -f eyes "Moreno77" | lolcat
-figlet -f slant "Moreno77" | lolcat
+cowsay -f eyes "Thepakboy Official" | lolcat
+figlet -f slant "Thepakboy Official" | lolcat
 echo "    <=====================[]====================>" | lolcat
-echo "    <=====[       Tools By Moreno77       ]=====>" | lolcat
-echo  "    <=====[  Concact Me : +6285606753071  ]=====>" | lolcat
+echo "    <=====[       Tools By Bobberybob.id       ]=====>" | lolcat
+echo  "    <=====[  Concact Me : xxxxxxxxxxxx  ]=====>" | lolcat
 echo "    <=====================[]====================>" | lolcat
 
 sleep 1
@@ -44,10 +44,10 @@ while [ $lagi -lt 6 ];
 do
 echo ""
 echo $b "1. Hack Akun Instagram${enda}";
-echo $b "2. Hack Akun Facebook${enda}";
-echo $b "3. Multi BruteForce Facebook${enda}";
+echo $b "2. Data Base Instagram${enda}";
+echo $b "3. Multi BruteForce Instagram${enda}";
 echo $b "4. Webdav${enda}";
-echo $b "5. Spam Jd.id${enda}";
+echo $b "5. Data all password IG${enda}";
 echo $b "6. Tools Installer${enda}";
 echo $b "7. Spam Telkomsel${enda}";
 echo $b "8. Install Bahan${enda}";
@@ -84,8 +84,8 @@ echo
 
 ;;
 
-99) echo "Autor : Moreno77" | lolcat
-figlet -f slant "Moreno77" | lolcat
+99) echo "Autor : bobberybob.id" | lolcat
+figlet -f slant "Thepakboy Official" | lolcat
 exit
 ;;
 
